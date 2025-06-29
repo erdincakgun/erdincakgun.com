@@ -33,7 +33,7 @@ export default function Navbar() {
         <meta name="theme-color" content="#ffffff" />
       )}
       <div className="navbar bg-base-100 shadow-sm">
-        <a className="btn btn-ghost text-xl">Erdinç Akgün</a>
+        <a className="btn btn-ghost text-xl ps-0">Erdinç Akgün</a>
         <div className="flex grow justify-end">
           <label className="flex cursor-pointer gap-2">
             <svg
