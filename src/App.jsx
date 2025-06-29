@@ -7,9 +7,7 @@ function App() {
       <title>Erdinç Akgün</title>
       <meta
         name="description"
-        content="Hi, I'm Erdinç Akgün, a DevOps consultant from Türkiye. I've worked
-            on projects ranging from real-time unmanned aerial vehicle systems
-            to machine learning deployments and full-stack web applications."
+        content="Hi, I'm Erdinç Akgün, a DevOps consultant from Türkiye. I've worked on projects ranging from real-time unmanned aerial vehicle systems to machine learning deployments and full-stack web applications."
       />
       <Navbar></Navbar>
       <div className="mx-auto max-w-4xl">
