@@ -27,13 +27,13 @@ function App() {
           </p>
           <p>
             For the curious tech folks: this is a static site built with React
-            and TailwindCSS, and hosted on Cloudflare Pages.{" "}
+            and TailwindCSS, and hosted on Cloudflare Pages.&nbsp;
             <a
               href="https://github.com/erdincakgun/erdincakgun.com"
               target="_blank"
               rel="noopener noreferrer"
             >
-              https://github.com/erdincakgun/erdincakgun.com
+              source code
             </a>
           </p>
           <h2>I'm looking for</h2>
