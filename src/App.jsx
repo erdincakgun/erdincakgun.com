@@ -39,9 +39,39 @@ function App() {
           <h2>I'm looking for</h2>
           <p>a Java developer I can team up with.</p>
           <h2>Contact</h2>
-          <a href="mailto:hello@erdincakgun.com?subject=Website%20Contact%20-%20erdincakgun.com&body=Hi%20Erdinç,%20">
-            hello@erdincakgun.com
-          </a>
+          <p>
+            <a
+              className="no-underline"
+              href="mailto:hello@erdincakgun.com?subject=Website%20Contact%20-%20erdincakgun.com&body=Hi%20Erdinç,%20"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <i className="fa-regular fa-envelope"></i>
+              &nbsp;hello@erdincakgun.com
+            </a>
+          </p>
+          <p>
+            <a
+              className="no-underline"
+              href="https://www.instagram.com/erdincsusername"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <i className="fa-brands fa-instagram"></i>
+              &nbsp;erdincsusername
+            </a>
+          </p>
+          <p>
+            <a
+              className="no-underline"
+              href="https://linkedin.com/in/erdinc-akgun"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <i className="fa-brands fa-linkedin"></i>
+              &nbsp;erdinc-akgun
+            </a>
+          </p>
         </article>
       </div>
     </>
