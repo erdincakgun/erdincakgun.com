@@ -13,7 +13,7 @@ function App() {
       />
       <Navbar></Navbar>
       <div className="mx-auto max-w-4xl">
-        <article class="prose p-2 max-w-none w-full">
+        <article className="prose p-2 max-w-none w-full">
           <h2>About Me</h2>
           <p>
             Hi, I'm Erdinç Akgün, a DevOps consultant from Türkiye. I've worked
