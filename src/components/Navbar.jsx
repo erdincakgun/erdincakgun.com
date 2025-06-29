@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import { Link } from "react-router";
 
 export default function Navbar() {
   const getInitialTheme = () => {
@@ -34,7 +35,14 @@ export default function Navbar() {
       )}
       <div className="mx-auto max-w-4xl">
         <div className="navbar bg-base-100 shadow-sm">
-          <a className="btn btn-ghost text-xl ps-0">Erdinç Akgün</a>
+          <Link to="/">
+            <img
+              src="/favicon-96x96.png"
+              alt="Erdinç Akgün"
+              width="48"
+              height="48"
+            />
+          </Link>
           <div className="flex grow justify-end">
             <label className="flex cursor-pointer gap-2">
               <svg
