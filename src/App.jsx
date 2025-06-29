@@ -29,11 +29,11 @@ function App() {
             For the curious tech folks: this is a static site built with React
             and TailwindCSS, and hosted on Cloudflare Pages.{" "}
             <a
-              href="http://github.com/erdincakgun/erdincakgun.com"
+              href="https://github.com/erdincakgun/erdincakgun.com"
               target="_blank"
               rel="noopener noreferrer"
             >
-              http://github.com/erdincakgun/erdincakgun.com
+              https://github.com/erdincakgun/erdincakgun.com
             </a>
           </p>
           <h2>I'm looking for</h2>
