@@ -51,23 +51,23 @@ function App() {
           <p>
             <a
               className="no-underline"
-              href="https://www.instagram.com/erdincsusername"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <i className="fa-brands fa-instagram"></i>
-              &nbsp;erdincsusername
-            </a>
-          </p>
-          <p>
-            <a
-              className="no-underline"
               href="https://linkedin.com/in/erdinc-akgun"
               target="_blank"
               rel="noopener noreferrer"
             >
               <i className="fa-brands fa-linkedin"></i>
               &nbsp;erdinc-akgun
+            </a>
+          </p>
+          <p>
+            <a
+              className="no-underline"
+              href="https://www.instagram.com/erdincsusername"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <i className="fa-brands fa-instagram"></i>
+              &nbsp;erdincsusername
             </a>
           </p>
         </article>
